@@ -1,1 +1,1 @@
-# TODO: Fill me out!
+Hello world! It's Caleb, on Day 1 of the Full Stack at Brown Bootcamp :)
